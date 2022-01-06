@@ -1,1 +1,1 @@
-# Sentiment2
+# mnist 
